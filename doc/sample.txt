@@ -1,0 +1,402 @@
+C:\Python27\python.exe C:/Users/noooop/PycharmProjects/pcap/main3.py
+eth1
+=============================================================================
+120.192.80.239 <---> 192.168.0.102
+-----------------------------------------------------------------------------
+GET /data/img/11/logo1369721935.png HTTP/1.1
+accept-language: zh-CN
+accept-encoding: gzip,deflate
+connection: keep-alive
+user-agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.1.3.4000 Chrome/26.0.1410.43 Safari/537.1
+accept-charset: iso-8859-1,*,utf-8
+host: safeurl.maxthon.cn
+
+-----------------------------------------------------------------------------
+HTTP 1.1 200/OK
+content-length: 734
+via: 1.0 SD_SQUID_3:8080 (squid/2.6.STABLE23)
+x-cache: HIT from SD_SQUID_3
+accept-ranges: bytes
+server: nginx
+last-modified: Tue, 28 May 2013 06:18:55 GMT
+connection: keep-alive
+date: Sat, 09 Nov 2013 04:11:38 GMT
+content-type: image/png
+age: 826
+
+=============================================================================
+120.192.80.239 <---> 192.168.0.102
+-----------------------------------------------------------------------------
+GET /data/img/1/logo1369728025.png HTTP/1.1
+accept-language: zh-CN
+accept-encoding: gzip,deflate
+connection: keep-alive
+user-agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.1.3.4000 Chrome/26.0.1410.43 Safari/537.1
+accept-charset: iso-8859-1,*,utf-8
+host: safeurl.maxthon.cn
+
+-----------------------------------------------------------------------------
+HTTP 1.1 200/OK
+content-length: 621
+via: 1.0 SD_SQUID_4:8080 (squid/2.6.STABLE23)
+x-cache: HIT from SD_SQUID_4
+accept-ranges: bytes
+server: nginx
+last-modified: Tue, 28 May 2013 08:00:25 GMT
+connection: keep-alive
+date: Sat, 09 Nov 2013 04:11:38 GMT
+content-type: image/png
+age: 11
+
+=============================================================================
+120.192.80.239 <---> 192.168.0.102
+-----------------------------------------------------------------------------
+GET /data/img/2/logo1370672214.png HTTP/1.1
+accept-language: zh-CN
+accept-encoding: gzip,deflate
+connection: keep-alive
+user-agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.1.3.4000 Chrome/26.0.1410.43 Safari/537.1
+accept-charset: iso-8859-1,*,utf-8
+host: safeurl.maxthon.cn
+
+-----------------------------------------------------------------------------
+HTTP 1.1 200/OK
+content-length: 621
+via: 1.0 SD_SQUID_1:8080 (squid/2.6.STABLE23)
+x-cache: HIT from SD_SQUID_1
+accept-ranges: bytes
+server: nginx
+last-modified: Sat, 08 Jun 2013 06:16:54 GMT
+connection: keep-alive
+date: Sat, 09 Nov 2013 04:11:38 GMT
+content-type: image/png
+age: 11
+
+=============================================================================
+120.192.80.239 <---> 192.168.0.102
+-----------------------------------------------------------------------------
+GET /data/img/3/logo1370672111.png HTTP/1.1
+accept-language: zh-CN
+accept-encoding: gzip,deflate
+connection: keep-alive
+user-agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.1.3.4000 Chrome/26.0.1410.43 Safari/537.1
+accept-charset: iso-8859-1,*,utf-8
+host: safeurl.maxthon.cn
+
+-----------------------------------------------------------------------------
+HTTP 1.1 200/OK
+content-length: 621
+via: 1.0 SD_SQUID_2:8080 (squid/2.6.STABLE23)
+x-cache: HIT from SD_SQUID_2
+accept-ranges: bytes
+server: nginx
+last-modified: Sat, 08 Jun 2013 06:15:11 GMT
+connection: keep-alive
+date: Sat, 09 Nov 2013 04:11:38 GMT
+content-type: image/png
+age: 11
+
+?============================================================================
+120.192.80.239 <---> 192.168.0.102
+HTTP 1.1 200/OK
+content-length: 621
+via: 1.0 SD_SQUID_4:8080 (squid/2.6.STABLE23)
+x-cache: HIT from SD_SQUID_4
+accept-ranges: bytes
+server: nginx
+last-modified: Tue, 28 May 2013 08:00:25 GMT
+connection: keep-alive
+date: Sat, 09 Nov 2013 04:11:38 GMT
+content-type: image/png
+age: 11
+
+?============================================================================
+120.192.80.239 <---> 192.168.0.102
+HTTP 1.1 200/OK
+content-length: 734
+via: 1.0 SD_SQUID_3:8080 (squid/2.6.STABLE23)
+x-cache: HIT from SD_SQUID_3
+accept-ranges: bytes
+server: nginx
+last-modified: Tue, 28 May 2013 06:18:55 GMT
+connection: keep-alive
+date: Sat, 09 Nov 2013 04:11:38 GMT
+content-type: image/png
+age: 826
+
+?============================================================================
+120.192.80.239 <---> 192.168.0.102
+HTTP 1.1 200/OK
+content-length: 621
+via: 1.0 SD_SQUID_1:8080 (squid/2.6.STABLE23)
+x-cache: HIT from SD_SQUID_1
+accept-ranges: bytes
+server: nginx
+last-modified: Sat, 08 Jun 2013 06:16:54 GMT
+connection: keep-alive
+date: Sat, 09 Nov 2013 04:11:38 GMT
+content-type: image/png
+age: 11
+
+?============================================================================
+120.192.80.239 <---> 192.168.0.102
+HTTP 1.1 200/OK
+content-length: 621
+via: 1.0 SD_SQUID_2:8080 (squid/2.6.STABLE23)
+x-cache: HIT from SD_SQUID_2
+accept-ranges: bytes
+server: nginx
+last-modified: Sat, 08 Jun 2013 06:15:11 GMT
+connection: keep-alive
+date: Sat, 09 Nov 2013 04:11:38 GMT
+content-type: image/png
+age: 11
+
+=============================================================================
+180.149.131.99 <---> 192.168.0.102
+-----------------------------------------------------------------------------
+GET / HTTP/1.1
+accept-language: zh-CN
+accept-encoding: gzip,deflate
+accept-charset: GBK,utf-8;q=0.7,*;q=0.3
+connection: keep-alive
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+user-agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.1.3.4000 Chrome/26.0.1410.43 Safari/537.1
+dnt: 1
+host: scuencrypt.duapp.com
+cookie: CNZZDATA1000060858=6886802-1383369551-http%253A%252F%252Fscuencrypt.duapp.com%7C1383369551; _cnzz_CV=
+
+-----------------------------------------------------------------------------
+HTTP 1.1 404/Not Found
+content-length: 36
+content-encoding: gzip
+set-cookie: BAEID=CF53F3182F5F3C9D8EF779EB895CA480:FG=1; path=/; version=1
+vary: Accept-Encoding
+server: BWS/1.0
+date: Sat, 09 Nov 2013 04:11:48 GMT
+content-type: text/html; charset=utf-8
+
+=============================================================================
+180.149.131.99 <---> 192.168.0.102
+-----------------------------------------------------------------------------
+GET /favicon.ico HTTP/1.1
+accept-language: zh-CN
+accept-encoding: gzip,deflate
+connection: keep-alive
+user-agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.1.3.4000 Chrome/26.0.1410.43 Safari/537.1
+accept-charset: iso-8859-1,*,utf-8
+host: scuencrypt.duapp.com
+
+-----------------------------------------------------------------------------
+HTTP 1.1 404/Not Found
+content-length: 36
+content-encoding: gzip
+set-cookie: BAEID=CF53F3182F5F3C9D9BBAF0D937C9D025:FG=1; path=/; version=1
+vary: Accept-Encoding
+server: BWS/1.0
+date: Sat, 09 Nov 2013 04:11:49 GMT
+content-type: text/html; charset=utf-8
+
+=============================================================================
+58.68.245.122 <---> 192.168.0.102
+-----------------------------------------------------------------------------
+POST /mxsmarturl/v1/ver/1804707 HTTP/1.1
+content-length: 95
+accept-language: zh-CN
+accept-encoding: gzip,deflate
+connection: keep-alive
+user-agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.1.3.4000 Chrome/26.0.1410.43 Safari/537.1
+accept-charset: iso-8859-1,*,utf-8
+host: smarturl.sync.maxthon.cn
+content-type: application/json
+
+-----------------------------------------------------------------------------
+HTTP 1.1 200/OK
+content-length: 78
+host: smarturl.sync.maxthon.cn
+server: nginx/0.8.55
+connection: keep-alive
+date: Sat, 09 Nov 2013 04:11:48 GMT
+content-type: application/json;charset=utf-8
+
+=============================================================================
+60.28.209.107 <---> 192.168.0.102
+-----------------------------------------------------------------------------
+GET /?v=4.1.3.4000&lang=zh-cn?u=1804707&ul=32&v=4.1.3.4000&ln=zh&pn=Mx3 HTTP/1.1
+accept-language: zh-CN
+accept-encoding: gzip,deflate
+connection: keep-alive
+user-agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.1.3.4000 Chrome/26.0.1410.43 Safari/537.1
+accept-charset: iso-8859-1,*,utf-8
+host: msg.maxthon.cn
+
+-----------------------------------------------------------------------------
+HTTP 1.1 403/Forbidden
+date: Sat, 09 Nov 2013 04:11:56 GMT
+connection: keep-alive
+content-type: text/html; charset=iso-8859-1
+content-length: 202
+server: nginx/0.8.55
+
+?============================================================================
+60.28.209.107 <---> 192.168.0.102
+HTTP 1.1 403/Forbidden
+date: Sat, 09 Nov 2013 04:11:56 GMT
+connection: keep-alive
+content-type: text/html; charset=iso-8859-1
+content-length: 202
+server: nginx/0.8.55
+
+=============================================================================
+58.68.245.122 <---> 192.168.0.102
+-----------------------------------------------------------------------------
+POST /mxsmarturl/v1/ver/1804707 HTTP/1.1
+content-length: 95
+accept-language: zh-CN
+accept-encoding: gzip,deflate
+connection: keep-alive
+user-agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.1.3.4000 Chrome/26.0.1410.43 Safari/537.1
+accept-charset: iso-8859-1,*,utf-8
+host: smarturl.sync.maxthon.cn
+content-type: application/json
+
+-----------------------------------------------------------------------------
+HTTP 1.1 200/OK
+content-length: 78
+host: smarturl.sync.maxthon.cn
+server: nginx/0.8.55
+connection: keep-alive
+date: Sat, 09 Nov 2013 04:12:01 GMT
+content-type: application/json;charset=utf-8
+
+=============================================================================
+58.68.245.122 <---> 192.168.0.102
+-----------------------------------------------------------------------------
+POST /mxsmarturl/v1/pre_up/1804707 HTTP/1.1
+content-length: 268
+accept-language: zh-CN
+accept-encoding: gzip,deflate
+connection: keep-alive
+user-agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.1.3.4000 Chrome/26.0.1410.43 Safari/537.1
+accept-charset: iso-8859-1,*,utf-8
+host: smarturl.sync.maxthon.cn
+content-type: application/json
+
+-----------------------------------------------------------------------------
+HTTP 1.1 200/OK
+content-length: 127
+host: smarturl.sync.maxthon.cn
+server: nginx/0.8.55
+connection: keep-alive
+date: Sat, 09 Nov 2013 04:12:01 GMT
+content-type: application/json;charset=utf-8
+
+?============================================================================
+58.68.245.122 <---> 192.168.0.102
+HTTP 1.1 200/OK
+content-length: 79
+host: smarturl.sync.maxthon.cn
+server: nginx/0.8.55
+connection: keep-alive
+date: Sat, 09 Nov 2013 04:12:01 GMT
+content-type: application/json;charset=utf-8
+
+?============================================================================
+58.68.245.122 <---> 192.168.0.102
+HTTP 1.1 200/OK
+content-length: 79
+host: smarturl.sync.maxthon.cn
+server: nginx/0.8.55
+connection: keep-alive
+date: Sat, 09 Nov 2013 04:12:01 GMT
+content-type: application/json;charset=utf-8
+
+=============================================================================
+180.149.131.99 <---> 192.168.0.102
+-----------------------------------------------------------------------------
+GET /ss/cc/ HTTP/1.1
+accept-language: zh-CN
+accept-encoding: gzip,deflate
+accept-charset: GBK,utf-8;q=0.7,*;q=0.3
+connection: keep-alive
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+user-agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.1.3.4000 Chrome/26.0.1410.43 Safari/537.1
+dnt: 1
+host: scuencrypt.duapp.com
+cookie: CNZZDATA1000060858=6886802-1383369551-http%253A%252F%252Fscuencrypt.duapp.com%7C1383369551; _cnzz_CV=; BAEID=CF53F3182F5F3C9D8EF779EB895CA480:FG=1
+
+-----------------------------------------------------------------------------
+HTTP 1.1 200/OK
+content-length: 308
+content-encoding: gzip
+vary: Accept-Encoding
+server: BWS/1.0
+date: Sat, 09 Nov 2013 04:12:03 GMT
+content-type: text/html; charset=utf-8
+
+=============================================================================
+58.68.245.122 <---> 192.168.0.102
+-----------------------------------------------------------------------------
+GET /mxsmarturl/v1/end_up/1804707/A55696B953783A4FA8A202C79134F0EB_10.0.8.184 HTTP/1.1
+accept-language: zh-CN
+accept-encoding: gzip,deflate
+connection: keep-alive
+user-agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.1.3.4000 Chrome/26.0.1410.43 Safari/537.1
+accept-charset: iso-8859-1,*,utf-8
+host: smarturl.sync.maxthon.cn
+
+-----------------------------------------------------------------------------
+HTTP 1.1 200/OK
+content-length: 94
+host: smarturl.sync.maxthon.cn
+server: nginx/0.8.55
+connection: keep-alive
+date: Sat, 09 Nov 2013 04:12:01 GMT
+content-type: application/json;charset=utf-8
+
+=============================================================================
+42.156.140.14 <---> 192.168.0.102
+-----------------------------------------------------------------------------
+GET /stat.htm?id=1000060858&r=&lg=zh-cn&ntime=1383369551&repeatip=0&rtime=0&cnzz_eid=6886802-1383369551-http%3A%2F%2Fscuencrypt.duapp.com&showp=1366x768&st=600774&sin=&t=&rnd=2142728034 HTTP/1.1
+accept-language: zh-CN
+accept-encoding: gzip,deflate
+accept-charset: GBK,utf-8;q=0.7,*;q=0.3
+connection: keep-alive
+accept: */*
+user-agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.1.3.4000 Chrome/26.0.1410.43 Safari/537.1
+dnt: 1
+host: z1.cnzz.com
+referer: http://scuencrypt.duapp.com/ss/cc/
+cookie: cna=RkH5Ckcb2zQCAdynKK8m5jL2; lzstat_uv=28967580613155832475|3037573
+
+-----------------------------------------------------------------------------
+HTTP 1.1 200/OK
+date: Sat, 09 Nov 2013 04:12:03 GMT
+transfer-encoding: chunked
+connection: close
+content-type: image/gif
+server: Tengine/1.4.1
+
+=============================================================================
+180.149.131.99 <---> 192.168.0.102
+-----------------------------------------------------------------------------
+GET /favicon.ico HTTP/1.1
+accept-language: zh-CN
+accept-encoding: gzip,deflate
+connection: keep-alive
+user-agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.1.3.4000 Chrome/26.0.1410.43 Safari/537.1
+accept-charset: iso-8859-1,*,utf-8
+host: scuencrypt.duapp.com
+
+-----------------------------------------------------------------------------
+HTTP 1.1 404/Not Found
+content-length: 36
+content-encoding: gzip
+set-cookie: BAEID=407E9FF9C445EE725EE1C00DC85A580A:FG=1; path=/; version=1
+vary: Accept-Encoding
+server: BWS/1.0
+date: Sat, 09 Nov 2013 04:12:04 GMT
+content-type: text/html; charset=utf-8
+
+
+Process finished with exit code -1
